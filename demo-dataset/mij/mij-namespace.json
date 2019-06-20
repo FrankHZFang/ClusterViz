@@ -1,0 +1,267 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "mij-namespace",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "mij",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "Console",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.Console.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "Filter",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.Filter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "FilterException",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.FilterException.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "Interpreter",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.Interpreter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "Repository",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.Repository.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "ast",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "FuncExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.FuncExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Node",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.Node.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Number",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.Number.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "OperExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.OperExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "TreeVisitor",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.TreeVisitor.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "UnaryOperExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.UnaryOperExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Variable",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.ast.Variable.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "bnf",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "AddExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.AddExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "ExponExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.ExponExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "GrammarType",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.GrammarType.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "LexExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.LexExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "MultExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.MultExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Node",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.Node.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "ParamExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.ParamExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "UnaryExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.UnaryExpr.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "ValueExpr",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.bnf.ValueExpr.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "io",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "InputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.InputPipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "MemoryBuffer",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.MemoryBuffer.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "MemoryInputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.MemoryInputPipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "MemoryOutputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.MemoryOutputPipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "OutputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.OutputPipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Pipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.Pipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "ReaderInputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.ReaderInputPipe.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "WriterOutputPipe",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.io.WriterOutputPipe.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "lex",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "LexType",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.lex.LexType.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Lexeme",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.lex.Lexeme.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Lexer",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.lex.Lexer.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "parse",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "Convert",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.parse.Convert.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "Parser",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.parse.Parser.java"
+        } ]
+      } ]
+    } ]
+  } ]
+}

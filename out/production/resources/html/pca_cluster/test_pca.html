@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    .label {
+        font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-anchor: middle;
+        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+    }
+
+    g.zoom-controls {
+        cursor: pointer;
+        pointer-events: all;
+    }
+
+    g.zoom-controls rect {
+        fill: white;
+        stroke: #596877;
+        stroke-width: 1;
+    }
+
+    g.zoom-controls line {
+        stroke: #596877;
+        stroke-width: 2;
+    }
+</style>
+<svg width="960" height="600">
+    <g class="zoom-controls" transform="translate(10, 10)">
+        <g id="zoom-in" transform="translate(0, 0)">
+            <rect width="30" height="30"></rect>
+            <line x1="5" y1="15" x2="25" y2="15"></line>
+            <line x1="15" y1="5" x2="15" y2="25"></line>
+        </g>
+        <g id="zoom-out" transform="translate(30, 0)">
+            <rect width="30" height="30"></rect>
+            <line x1="5" y1="15" x2="25" y2="15"></line>
+        </g>
+    </g>
+    <g id="circles"></g>
+    <g id="labels"></g>
+</svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="test_pca_cluster.js"></script>
+</body>

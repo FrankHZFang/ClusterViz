@@ -1,0 +1,279 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "mij",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0.M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.io.OutputPipe.java"
+      }, {
+        "@type" : "item",
+        "name" : "mij.io.Pipe.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1.M0.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1.M0.L0.M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1.M0.L0.M0.L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1.M0.L0.M0.L0.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.lex.LexType.java"
+              }, {
+                "@type" : "item",
+                "name" : "mij.lex.Lexeme.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1.M0.L0.M0.L0.M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.Filter.java"
+              }, {
+                "@type" : "item",
+                "name" : "mij.FilterException.java"
+              } ]
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.io.InputPipe.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L0.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.io.MemoryBuffer.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M0.L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1.M0.L1.M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M0.L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L0.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.Node.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M0.L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L1.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.UnaryOperExpr.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L1.M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.Number.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L1.M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.Variable.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L1.M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.FuncExpr.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1.M0.L1.M0.L1.M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "mij.ast.OperExpr.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M0.Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.ast.TreeVisitor.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L1.M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M1.M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.GrammarType.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M1.M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.Node.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L1.M1.M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.LexExpr.java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M0.L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.UnaryExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.ExponExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.MultExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M3",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.AddExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M4",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.ParamExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M5",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.bnf.ValueExpr.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1.M0.L2.M0.M6",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "mij.parse.Parser.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.io.ReaderInputPipe.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.parse.Convert.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.io.MemoryOutputPipe.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.Repository.java"
+          }, {
+            "@type" : "item",
+            "name" : "mij.Interpreter.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.lex.Lexer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1.M0.L2.M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "mij.io.MemoryInputPipe.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M0.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "mij.Console.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1.M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "mij.io.WriterOutputPipe.java"
+      } ]
+    } ]
+  } ]
+}

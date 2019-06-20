@@ -1,0 +1,917 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "zookeeper-2.1",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0.M0.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0.M0.L0.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.OutputArchive_java"
+          }, {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.Record_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0.M0.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.Index_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0.M0.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.jute.InputArchive_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0.M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.zookeeper.ZooDefs_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0.M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.Utils_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1.M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.BinaryInputArchive_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1.M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.BinaryOutputArchive_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1.M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1.M2.M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.Watcher_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M2.M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ServerCnxn_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M2.M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.Request_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1.M2.M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ZooLog_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2.M0.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2.M0.L0.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.WatchManager_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2.M0.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.DataNode_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2.M0.L0.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.KeeperException_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2.M0.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.DataTree_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3.M0.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3.M0.L0.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ServerStats_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ServerConfig_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L0.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Vote_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3.M0.L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3.M0.L1.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Election_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3.M0.L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L3.M0.L2.M0.L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L3.M0.L2.M0.L0.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.SessionTrackerImpl_java"
+              }, {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.SessionTracker_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3.M0.L2.M0.L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L3.M0.L2.M0.L1.M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L3.M0.L2.M0.L1.M0.L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L0.M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.RequestProcessor_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L0.M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.auth.AuthenticationProvider_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L1",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L1.M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.auth.IPAuthenticationProvider_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L1.M1",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.auth.HostAuthenticationProvider_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L1.M2",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.PrepRequestProcessor_java"
+                                  }, {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.FinalRequestProcessor_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.L1.M3",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.auth.DigestAuthenticationProvider_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M0.Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.auth.ProviderRegistry_java"
+                                } ]
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "zookeeper.java.src.com.yahoo.zookeeper.Version_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.L0.M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ByteBufferInputStream_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M0.Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.NIOServerCnxn_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerHandler_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.L0.M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.CommitProcessor_java"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M0.Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Leader_java"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L3.M0.L2.M0.L1.M0.L0.M0.L1.M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.util.Profiler_java"
+                      }, {
+                        "@type" : "item",
+                        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.SyncRequestProcessor_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L3.M0.L2.M0.L1.M0.L0.M0.Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.ZooKeeperServer_java"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L3.M0.L2.M0.L1.M0.L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L3.M0.L2.M0.L1.M0.L1.M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.ProposalRequestProcessor_java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.AckRequestProcessor_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L3.M0.L2.M0.L1.M0.L1.M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.Follower_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L3.M0.L2.M0.L1.M0.Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.LeaderZooKeeperServer_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3.M0.L2.M0.L2",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L3.M0.L2.M0.L2.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.SendAckRequestProcessor_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L3.M0.L2.M0.L2.M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerRequestProcessor_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L3.M0.L2.M0.L2.M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerSessionTracker_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3.M0.L2.M0.Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FollowerZooKeeperServer_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.LeaderElection_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.AuthFastLeaderElection_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.QuorumPeerConfig_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.QuorumCnxManager_java"
+          }, {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.FastLeaderElection_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3.M0.L2.M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.QuorumStats_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3.M0.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.quorum.QuorumPeer_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L4",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L4.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4.M0.M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.AsyncCallback_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4.M0.M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.ZooKeeper_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4.M0.M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.zookeeper.ClientCnxn_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L5",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L5.M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5.M0.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5.M0.L0.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JType_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.Token_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M0.L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5.M0.L1.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JCompType_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M0.L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L5.M0.L2.M0.L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M0.L0.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.RccConstants_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M0.L0.M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.TokenMgrError_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M0.L0.M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.SimpleCharStream_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5.M0.L2.M0.Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.RccTokenManager_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L5.M0.L2.M1.L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M1.L0.M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L5.M0.L2.M1.L0.M0.L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L5.M0.L2.M1.L0.M0.L0.M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JVector_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L5.M0.L2.M1.L0.M0.L0.M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JField_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L5.M0.L2.M1.L0.M0.L0.M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JBuffer_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L5.M0.L2.M1.L0.M0.Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JRecord_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5.M0.L2.M1.L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M1.L1.M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.CppGenerator_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M1.L1.M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JavaGenerator_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5.M0.L2.M1.L1.M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "zookeeper.java.src.com.yahoo.jute.compiler.CGenerator_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5.M0.L2.M1.Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JFile_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JDouble_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JByte_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.ParseException_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JLong_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JBoolean_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JInt_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JMap_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M9",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JFloat_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M0.L2.M10",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.compiler.JString_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M0.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.jute.compiler.generated.Rcc_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5.M1.M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.test.com.yahoo.zookeeper.test.ClientTest_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M1.M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.test.com.yahoo.zookeeper.test.QuorumTest_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M1.M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.test.com.yahoo.zookeeper.test.AsyncTest_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.server.ZooKeeperServerTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.PurgeTxnLog_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.server.SerializationPerfTest_java"
+      }, {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.server.DeserializationPerfTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.SledgeHammer_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.IntegrityCheck_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.OOMTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.GenerateLoad_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.TestHammer_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.LogFormatter_java"
+      }, {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.zookeeper.server.TraceFormatter_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.CsvInputArchive_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.RecordReader_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M13",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5.M13.L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5.M13.L0.M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.CsvOutputArchive_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5.M13.L0.M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "zookeeper.java.src.com.yahoo.jute.XmlOutputArchive_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5.M13.Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "zookeeper.java.src.com.yahoo.jute.RecordWriter_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.ZooKeeperTestClient_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.SessionTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.DataTreeTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.zookeeper.ServerAdminClient_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.test.com.yahoo.zookeeper.test.RecoveryTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5.M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "zookeeper.java.src.com.yahoo.jute.XmlInputArchive_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "zookeeper.java.src.com.yahoo.zookeeper.version.util.VerGen_java"
+    } ]
+  } ]
+}

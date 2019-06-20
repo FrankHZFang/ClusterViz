@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Cluster-Visualization:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="516e3a99-0f1a-4423-b616-68b3d525f935" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Cluster-Visualization" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Cluster-Visualization" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/Launcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/MainWindowControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/FileChooserManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fcItem</find>
+      <find>fileCluster</find>
+      <find>clustering</find>
+      <find>Clustering</find>
+      <find>ClusteringTableItem</find>
+      <find>clusterComponent</find>
+      <find>ClusterComponent</find>
+      <find>FileChooser.ExtensionFilter</find>
+      <find>sy</find>
+      <find>syst</find>
+      <find>print</find>
+      <find>.fileCount()</find>
+      <find>.childNodes().</find>
+      <find>view</find>
+      <find>width</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>item</replace>
+      <replace>clustering</replace>
+      <replace>clusterComponent</replace>
+      <replace>ClusterComponent</replace>
+      <replace>ClusterComponentTableItem</replace>
+      <replace>ClusterGroup</replace>
+      <replace>clusterGroup</replace>
+      <replace>ExtensionFilter</replace>
+      <replace>.files.size()</replace>
+      <replace>.childNodes.</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clusteritem/ClusterItemDependzencyTypeTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/CirclePackageControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/GeneralSetViewControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/ContentTabControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clusteritem/ClusterItemDependencyTypeTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupNodeModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/SetNodeModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/data/AbstractDrawingModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/SetNodeDrawingModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/ClusterPCACalculateControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/D3jsPCAUpcall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/D3JsPCAUpCall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/ClusterPCAGroupControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASetNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASetNodeToD3JSJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/D3JsPCAUpCall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAClusterControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupTableItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/SelectTableItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/SelectTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupSelectTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/SimpleSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/SimpleSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/GeneralSetViewTab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupSelectTableItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupTreeTableView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/SimpleSetSelectTableItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGraphicsTab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCACalculateControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGroupControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/utilities/ClusterUtilities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/data/dv8/utilities/ClusterUtilities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/dv8/utilities/ClusterUtilities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/CirclePackageTab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/VisNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/VisNodeToD3JSJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASetControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAViewTab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupDependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupNodeToD3JSJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/D3jsControl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/html/circle_package/circle_package.js" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/CirclePackageDrawingModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/visualizer/viewer/MainWindowControl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="108" />
+    <option name="y" value="-4" />
+    <option name="width" value="1820" />
+    <option name="height" value="1106" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Ant</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cluster-Visualization" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Cluster-Visualization_main" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Cluster-Visualization_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Cluster-Visualization_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Cluster-Visualization_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="visualizer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="Cluster-Visualization_main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Cluster-Visualization" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Cluster-Visualization" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/OneDrive - Drexel University/Research/Project/Cluster-Visualization/src/main/java/visualizer/viewer/tab/set/pca/PCAGroup.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544741263910" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="visualizer.viewer.tab.cluster.circlepackage" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="visualizer.data.dv8.Dv8ClusterUtilities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="visualizer.viewer.graphics" />
+      <recent name="visualizer.dv8" />
+      <recent name="visualizer.data.dv8" />
+      <recent name="visualizer" />
+      <recent name="visualizer.viewer.tab.set" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OneDrive - Drexel University\REU\Project\Cluster-Visualization" />
+      <recent name="C:\Users\Hongzhou Fang\OneDrive - Drexel University\REU\Project\Cluster-Visualization\src\main\java\visualizer\data\dsm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="visualizer.viewer.selecttable" />
+      <recent name="visualizer.viewer.clustergroup" />
+      <recent name="visualizer.viewer.tab.set.pca" />
+      <recent name="visualizer.viewer.clusteritem" />
+      <recent name="visualizer.data.node" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="visualizer.viewer.tab.set.pca" />
+      <recent name="visualizer.viewer.contenttab" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="visualizer.Launcher" />
+      <module name="Cluster-Visualization_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="visualizer.viewer.graphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cluster-Visualization [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Cluster-Visualization [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launcher" />
+      <item itemvalue="Gradle.Cluster-Visualization [jar]" />
+      <item itemvalue="Gradle.Cluster-Visualization [fatJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Gradle.Cluster-Visualization [fatJar]" />
+        <item itemvalue="Gradle.Cluster-Visualization [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516e3a99-0f1a-4423-b616-68b3d525f935" name="Default" comment="" />
+      <created>1531277366437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531277366437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="-6" width="1861" height="1093" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.23017193" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Learn" order="4" weight="0.3294509" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50155765" side_tool="true" weight="0.2552719" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49917263" weight="0.32848233" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49609035" weight="0.3229491" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49520257" weight="0.3468328" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4984375" weight="0.32943678" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952183" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50390965" side_tool="true" visible="true" weight="0.3229491" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49542272" weight="0.32744282" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49973074" weight="0.32925585" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="13" visible="true" weight="0.32952183" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="14" weight="0.32952183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24958402" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498621" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" show_stripe_button="false" weight="0.23793676" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" sideWeight="0.49064448" visible="true" weight="0.17138103" />
+      <window_info anchor="right" x="0" y="0" width="417" height="893" id="Documentation" order="9" sideWeight="0.5093555" side_tool="true" visible="true" weight="0.17359956" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.5092593" side_tool="true" weight="0.17359956" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties>
+            <catch-class-filters>
+              <class-filter pattern="java.lang.IndexOutOfBoundsException" />
+            </catch-class-filters>
+            <option name="catch-filters-enabled" value="true" />
+            <option name="NOTIFY_CAUGHT" value="false" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/D3JsPCAUpCall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupDependencyTypeTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/javafx-src.zip!/javafx/collections/ObservableList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/SetNodeDrawingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/javafx-src.zip!/javafx/beans/property/IntegerProperty.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/GeneralSetViewTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupSelectTableItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupTreeTableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="20" column="82" lean-forward="true" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/clustergroup/ClusterGroupSelectTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/SimpleSetSelectTableItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/SimpleSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/javafx-src.zip!/javafx/collections/SetChangeListener.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/javafx-src.zip!/javafx/collections/ObservableSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/data/BufferedObservableValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/dv8/utilities/ClusterUtilities.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/contenttab_legacy/ClusterTreeTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/data/filecluster/JsonUtilities.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/data/filecluster/XMLUtilities.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/data/node/FileSetNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/dv8/utilities/DependencyUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/dv8/utilities/IOUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/dv8-api-1.0-SNAPSHOT.jar!/com/archdia/dv8/cluster/ClusterGroup.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGroup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCACalculateControl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASetNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGroupControl.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/dv8-api-1.0-SNAPSHOT.jar!/com/archdia/dv8/cluster/Clustering.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAViewTab.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCAGraphicsTab.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/selecttable/SelectTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/ContentTabControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/general/SetNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/set/pca/PCASetNodeToD3JSJson.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupDependency.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupNodeToD3JSJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/GraphicsControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/CirclePackageTab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="158" column="17" lean-forward="true" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/ClusterGroupNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/AbstractDrawingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/javafx-src.zip!/com/sun/glass/ui/win/WinApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="128" column="24" selection-start-line="128" selection-start-column="24" selection-end-line="128" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/html/circle_package/circle_package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="96" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/graphics/D3jsControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/tab/cluster/circlepackage/CirclePackageDrawingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/server/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/MainWindowControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/visualizer/viewer/FileChooserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Cluster-Visualization:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Cluster-Visualization_main|Cluster-Visualization</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
