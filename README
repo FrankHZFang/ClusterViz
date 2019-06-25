@@ -1,0 +1,3 @@
+ClusterViz is software architecture visualization tool. It is designed to ﬂexibly integrate dependencies and clusterings generated using different tools. It uses special color schemes to manifest architecture quality, and allows the user to choose a subset of the system and/or a subset of dependency types to analyze. 
+
+The ClusterViz-0.1.jar is a packed runnable jar of ClusterViz. You can just double click to run it.
