@@ -1,3 +1,10 @@
 ClusterViz is software architecture visualization tool. It is designed to ﬂexibly integrate dependencies and clusterings generated using different tools. It uses special color schemes to manifest architecture quality, and allows the user to choose a subset of the system and/or a subset of dependency types to analyze. 
 
+
+The project is built on top of Java 8 with some javascript visualization library d3js.
+
 The ClusterViz-0.1.jar is a packed runnable jar of ClusterViz. You can just double click to run it.
+
+All json files in the demo-dataset end with "drh" are valid dv8 clustering input. In mij, there is also a name-space clustering input. To load dependencies of mij, ClusterViz needs to load both the dependencies json and the dependency-type mapping file, in the same directory. 
+
+Also, you can compile a jar by gradle fatJar task. For details, just read the gradle build file.
